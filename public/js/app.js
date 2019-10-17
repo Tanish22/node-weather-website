@@ -1,8 +1,6 @@
 const weatherForm = document.querySelector('form');
 const searchElem = document.querySelector('input');
-
-const car;
-
+  
 const messageOne = document.querySelector('#message-1');
 const messageTwo = document.querySelector('#message-2');
 
